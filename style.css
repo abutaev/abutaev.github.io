@@ -30,3 +30,19 @@ main {
   margin: auto;
 }
 
+.intro-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: auto;
+  border-radius: 8px; /* optional rounded corners */
+}
+
+.intro-text {
+  max-width: 600px;
+}
